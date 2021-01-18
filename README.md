@@ -1,12 +1,12 @@
 ### Hi there, I'm Chinmay Ranjan Sahoo [sahoochinmay][website]👋
 
-## I'm a Student , Tutor and a well wisher!
+## Web Developer | Competitive Programmer
 
-- 🔭 I’m currently studing .
-- 🌱 I’m currently learning everything. 🤣
-- 🥅 2020 Goals: Learn more about frontend development including backend.💻
+- 🔭 Currently exploring new things in the field of JavaScript.
+- 🌱 I’m currently studing backend technologys. 
+- 🥅 2021 Goals: Learn more about backend.💻
 - ⚡ Fun fact: I love Traveling.🚴
-- ❤️ Love : Writing anything.
+- ❤️ Love : Exploring new things.
 
 ### Connect with me:
 
