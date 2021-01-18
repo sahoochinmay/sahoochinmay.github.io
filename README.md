@@ -36,8 +36,8 @@
 <img align="left" alt="sahoochinmay's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sahoochinmay&show_icons=true&hide_border=true" />
 
 [website]: https://github.com/sahoochinmay
-[twitter]: https://twitter.com/Chinmay_R_sahoo
-[instagram]: https://www.instagram.com/chinmay_ranjan_/
+[twitter]: https://twitter.com/_Sahoochinmay
+[instagram]: https://www.instagram.com/_sahoochinmay/
 [linkedin]: https://www.linkedin.com/in/chinmay-ranjan-sahoo-865b75161/
 [vscode]: https://code.visualstudio.com/
 [html5]: https://g.co/kgs/9zzMzE
