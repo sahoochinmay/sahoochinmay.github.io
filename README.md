@@ -1,6 +1,6 @@
 ### Hi there, I'm Chinmay Ranjan Sahoo [sahoochinmay][website]👋
 
-## Web Developer | Competitive Programmer
+## Frontend Development | Reactjs 
 
 - 🔭 Currently exploring new things in the field of JavaScript.
 - 🌱 I’m currently studing backend technologys. 
