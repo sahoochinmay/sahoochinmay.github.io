@@ -40,7 +40,7 @@
 [twitter]: https://twitter.com/_Sahoochinmay
 [instagram]: https://www.instagram.com/_sahoochinmay/
 [linkedin]: https://www.linkedin.com/in/chinmay-ranjan-sahoo-865b75161/
-[facebook]: https://www.facebook.com/chinmay.ranjan.961/
+[facebook]: https://www.facebook.com/sahoochinmay.R/
 [vscode]: https://code.visualstudio.com/
 [html5]: https://g.co/kgs/9zzMzE
 [css3]: https://g.co/kgs/NxbB1b
