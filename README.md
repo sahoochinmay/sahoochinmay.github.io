@@ -4,7 +4,7 @@
 
 - 🔭 Currently exploring new things in the field of JavaScript.
 - 🌱 I’m currently studing backend technologys. 
-- 🥅 2021 Goals: Learn more about backend.💻
+- 🥅 2022 Goals: Learn more about backend.💻
 - ⚡ Fun fact: I love Traveling.🚴
 - ❤️ Love : Exploring new things.
 
