@@ -27,6 +27,10 @@
 [<img align="left" alt="github" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 [<img align="left" alt="bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />][bootstrap]
 [<img align="left" alt="c-programming" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />][c]
+[<img align="left" alt="c-programming" width="26px" src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" />][nextjs]
+[<img align="left" alt="c-programming" width="26px" src="https://tailwindcss.com/_next/static/media/social-square.b622e290e82093c36cca57092ffe494f.jpg" />][tailwind]
+[<img align="left" alt="c-programming" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][node]
+[<img align="left" alt="c-programming" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][mongodb]
 <br />
 <br />
 
@@ -49,3 +53,7 @@
 [github]: https://github.com/
 [bootstrap]: https://getbootstrap.com/
 [c]: https://g.co/kgs/HJyHvh
+[nextjs]: https://nextjs.org/
+[tailwind]: https://tailwindcss.com/
+[node]: https://nodejs.org/en/
+[mongodb]: https://www.mongodb.com/
