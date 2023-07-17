@@ -20,14 +20,32 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import githubBlack from "./tech/github.png";
+import eslint from "./tech/eslint.png";
+import vite from "./tech/vite.svg";
+import c from "./tech/c.png";
+import cplusplus from "./tech/cplusplus.png";
+import java from "./tech/java.png";
+import netlify from "./tech/netlify.png";
+import reactRouter from "./tech/react-router.png";
+import mysql from "./tech/mysql.png";
+import firebase from "./tech/firebase.png";
+import chartjs from "./tech/chartjs.svg";
+import materialUi from "./tech/materialui.png";
+import php from "./tech/php.png";
+import json from "./tech/json.png";
+import xampp from "./tech/xampp.png";
+import sass from "./tech/sass.png";
+import postman from "./tech/postman.png";
+import npm from "./tech/npm.png";
 
-import oyesters from './company/oyesters.png'
+import oyesters from "./company/oyesters.png";
+import ophiurasoft from "./company/ophiurasoft.png";
+import cv from "./company/cv.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
-
-
 
 export {
   logo,
@@ -54,5 +72,25 @@ export {
   carrent,
   jobit,
   tripguide,
-  oyesters
+  oyesters,
+  ophiurasoft,
+  cv,
+  githubBlack,
+  eslint,
+  vite,
+  c,
+  cplusplus,
+  java,
+  mysql,
+  reactRouter,
+  netlify,
+  materialUi,
+  chartjs,
+  firebase,
+  npm,
+  postman,
+  sass,
+  xampp,
+  json,
+  php,
 };

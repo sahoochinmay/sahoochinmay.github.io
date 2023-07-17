@@ -19,7 +19,27 @@ import {
   jobit,
   tripguide,
   threejs,
-  oyesters
+  oyesters,
+  ophiurasoft,
+  cv,
+  githubBlack,
+  eslint,
+  vite,
+  c,
+  cplusplus,
+  java,
+  mysql,
+  reactRouter,
+  netlify,
+  materialUi,
+  chartjs,
+  firebase,
+  npm,
+  postman,
+  sass,
+  xampp,
+  json,
+  php,
 } from "../assets";
 
 export const navLinks = [
@@ -39,19 +59,19 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Web Developer",
+    title: "Web Development",
     icon: web,
   },
   {
-    title: "ReactJs Developer",
+    title: "ReactJs Development",
     icon: mobile,
   },
   {
-    title: "NextJs Developer",
+    title: "NextJs Development",
     icon: backend,
   },
   {
-    title: "Content Creator",
+    title: "PWA Development",
     icon: creator,
   },
 ];
@@ -69,10 +89,10 @@ const technologies = [
     name: "JavaScript",
     icon: javascript,
   },
-  {
-    name: "TypeScript",
-    icon: typescript,
-  },
+  // {
+  //   name: "TypeScript",
+  //   icon: typescript,
+  // },
   {
     name: "React JS",
     icon: reactjs,
@@ -85,18 +105,18 @@ const technologies = [
     name: "Tailwind CSS",
     icon: tailwind,
   },
-  {
-    name: "Node JS",
-    icon: nodejs,
-  },
-  {
-    name: "MongoDB",
-    icon: mongodb,
-  },
-  {
-    name: "Three JS",
-    icon: threejs,
-  },
+  // {
+  //   name: "Node JS",
+  //   icon: nodejs,
+  // },
+  // {
+  //   name: "MongoDB",
+  //   icon: mongodb,
+  // },
+  // {
+  //   name: "Three JS",
+  //   icon: threejs,
+  // },
   {
     name: "git",
     icon: git,
@@ -106,47 +126,131 @@ const technologies = [
     icon: figma,
   },
   {
-    name: "docker",
-    icon: docker,
+    name: "github",
+    icon: githubBlack,
+  },
+  {
+    name: "eslint",
+    icon: eslint,
+  },
+  {
+    name: "vite",
+    icon: vite,
+  },
+  {
+    name: "c",
+    icon: c,
+  },
+  {
+    name: "cplusplus",
+    icon: cplusplus,
+  },
+  {
+    name: "java",
+    icon: java,
+  },
+  {
+    name: "mysql",
+    icon: mysql,
+  },
+  {
+    name: "reactRouter",
+    icon: reactRouter,
+  },
+  {
+    name: "netlify",
+    icon: netlify,
+  },
+  {
+    name: "materialUi",
+    icon: materialUi,
+  },
+  {
+    name: "chartjs",
+    icon: chartjs,
+  },
+  {
+    name: "firebase",
+    icon: firebase,
+  },
+  {
+    name: "npm",
+    icon: npm,
+  },
+  {
+    name: "postman",
+    icon: postman,
+  },
+  {
+    name: "sass",
+    icon: sass,
+  },
+  {
+    name: "xampp",
+    icon: xampp,
+  },
+  {
+    name: "json",
+    icon: json,
+  },
+  {
+    name: "php",
+    icon: php,
   },
 ];
 
 const experiences = [
   {
-    title: "React.js Developer",
-    company_name: "Oyesters Training",
+    title: "Web Developer",
+    company_name: "Oyesters Training - Internship",
     icon: oyesters,
     iconBg: "#383E56",
-    date: "June 2021 - May 2023",
+    date: "June 2021 - Aug 2021",
+    points: [
+      "Developing responsive and interactive web applications using ReactJS and related front-end technologies like HTML, CSS, and JavaScript.",
+      "Demonstrated ability to collaborate effectively in agile teams, contributing problem-solving skills.",
+      "Participating in code reviews and providing constructive feedback to other developers.",
+    ],
+  },
+  {
+    title: "React.js Developer",
+    company_name: "Ophiurasoft",
+    icon: ophiurasoft,
+    iconBg: "#383E56",
+    date: "Aug 2021 - June 2023",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
       "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
     ],
-  }
+  },
+  {
+    title: "Resume",
+    company_name: "",
+    icon: cv,
+    iconBg: "#383E56",
+    date: "",
+    points: [],
+  },
 ];
 
 const testimonials = [
   {
-    testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
+    testimonial: "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
     name: "Sara Lee",
     designation: "CFO",
     company: "Acme Co",
     image: "https://randomuser.me/api/portraits/women/4.jpg",
   },
   {
-    testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
+    testimonial: "I've never met a web developer who truly cares about their clients' success like Rick does.",
     name: "Chris Brown",
     designation: "COO",
     company: "DEF Corp",
     image: "https://randomuser.me/api/portraits/men/5.jpg",
   },
   {
-    testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
+    testimonial: "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
     name: "Lisa Wang",
     designation: "CTO",
     company: "456 Enterprises",
