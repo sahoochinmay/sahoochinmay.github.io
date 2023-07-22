@@ -39,13 +39,15 @@ import sass from "./tech/sass.png";
 import postman from "./tech/postman.png";
 import npm from "./tech/npm.png";
 
+import fiverr from './company/fiverr.png'
 import oyesters from "./company/oyesters.png";
 import ophiurasoft from "./company/ophiurasoft.png";
 import cv from "./company/cv.png";
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import toskrmail from "./toskrmail.png";
+import valetx from "./valetx.png";
+import acceldocs from './acceldocs.png'
+import bettingapp from './bettingapp.png'
 
 export {
   logo,
@@ -69,9 +71,11 @@ export {
   tailwind,
   typescript,
   threejs,
-  carrent,
-  jobit,
-  tripguide,
+  toskrmail,
+  valetx,
+  bettingapp,
+  acceldocs,
+  fiverr,
   oyesters,
   ophiurasoft,
   cv,
