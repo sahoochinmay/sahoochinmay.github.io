@@ -213,9 +213,9 @@ const experiences = [
     iconBg: "#383E56",
     date: "Jan 2021 - June 2021",
     points: [
-      "Developing responsive and interactive web applications using ReactJS and related front-end technologies like HTML, CSS, and JavaScript.",
-      "Demonstrated ability to collaborate effectively in agile teams, contributing problem-solving skills.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Proficient in Modern Web Technologies.",
+      "Effective Collaboration in Agile Environments.",
+      "Commitment to Code Quality and Review.",
     ],
   },
   {
