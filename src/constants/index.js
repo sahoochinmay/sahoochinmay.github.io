@@ -42,6 +42,7 @@ import {
   xampp,
   json,
   php,
+  blockchain,
 } from "../assets";
 
 export const navLinks = [
@@ -397,7 +398,44 @@ const projects = [
       },
     ],
     image: bettingapp,
-    source_code_link: "https://github.com/sahoochinmay",
+    source_code_link: "https://github.com/sahoochinmay/bettingapp",
+  },
+  {
+    name: "BlockChain Certificate",
+    description:
+      "A web app for blockchain certificate generation and also to provide blockchain certificate and manage all details using admin panel. Viewer can verify...",
+    tags: [
+      {
+        name: "Blockchain",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Reactjs",
+        color: "green-text-gradient",
+      },
+      {
+        name: "MySql",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "PHP",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "HTML",
+        color: "green-text-gradient",
+      },
+      {
+        name: "CSS",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Admin Panel",
+        color: "blue-text-gradient",
+      },
+    ],
+    image: blockchain,
+    source_code_link: "https://github.com/sahoochinmay/Blockchain-Certificate",
   },
 ];
 

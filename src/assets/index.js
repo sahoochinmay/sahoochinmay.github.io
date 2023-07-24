@@ -48,6 +48,7 @@ import toskrmail from "./toskrmail.png";
 import valetx from "./valetx.png";
 import acceldocs from './acceldocs.png'
 import bettingapp from './bettingapp.png'
+import blockchain from './blockchain.png'
 
 export {
   logo,
@@ -97,4 +98,5 @@ export {
   xampp,
   json,
   php,
+  blockchain
 };
